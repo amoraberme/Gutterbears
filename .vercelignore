@@ -1,0 +1,7 @@
+node_modules/
+Resources/
+test/
+scripts/
+*.log
+.git
+.gitignore

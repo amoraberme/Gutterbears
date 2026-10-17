@@ -1,0 +1,14 @@
+{
+  "name": "universal-website-offline-archiver",
+  "version": "1.0.0",
+  "description": "Universal Website Offline Archive & Live Editor Builder",
+  "main": "archive-site.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node server.js",
+    "archive": "node archive-site.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
