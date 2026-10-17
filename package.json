@@ -1,9 +1,9 @@
 {
-  "name": "universal-website-offline-archiver",
+  "name": "gutterbears",
   "version": "1.0.0",
-  "description": "Universal Website Offline Archive & Live Editor Builder",
-  "main": "archive-site.js",
+  "description": "Gutterbears - Adaptive Website Mirror & SMM Creative Mosaic Gallery",
   "scripts": {
+    "build": "node scripts/vercel-build.js",
     "test": "node --test",
     "start": "node server.js",
     "archive": "node archive-site.js"

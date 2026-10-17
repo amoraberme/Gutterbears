@@ -1,7 +1,6 @@
 node_modules/
 Resources/
 test/
-scripts/
-*.log
+archive-errors.log
 .git
 .gitignore
